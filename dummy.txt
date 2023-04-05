@@ -1,0 +1,39 @@
+{
+    "student_id": 96782025,
+    "fname": "John",
+    "lname": "Doe",
+    "email": "john.doe@ashesi.edu.gh",
+    "date_of_birth": "1999-05-25",
+    "year_group": 2025,
+    "major": "Computer Science",
+    "campus_residence": true,
+    "best_food": "Pizza",
+    "best_movie": "The Dark Knight",
+    "status": "active"
+},
+{
+    "student_id": 13892024,
+    "fname": "Jane",
+    "lname": "Doe",
+    "email": "jane.doe@ashesi.edu.gh",
+    "date_of_birth": "2001-08-12",
+    "year_group": 2024,
+    "major": "Business Administration",
+    "campus_residence": false,
+    "best_food": "Sushi",
+    "best_movie": "The Godfather",
+    "status": "active"
+},
+{
+    "student_id": 96892023,
+    "fname": "Bob",
+    "lname": "Smith",
+    "email": "bob.smith@ashesi.edu.gh",
+    "date_of_birth": "2000-02-17",
+    "year_group": 2023,
+    "major": "Engineering",
+    "campus_residence": true,
+    "best_food": "Burgers",
+    "best_movie": "The Shawshank Redemption",
+    "status": "deactive"
+}
